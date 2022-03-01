@@ -1,0 +1,874 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The regular architect: or the general rule of the five orders of architecture of M. Giacomo Barozzio Da Vignola. With a new addition of Michael Angelo Buonaroti. / Rendred into English from the original Italian, and explained, by John Leeke student and teacher of the mathematicks, for the use and benefit of free masons, carpenters, joyners, carvers, painters, bricklayers, plaisterers: in general for all ingenious persons that are concerned in the famous art of building.</title>
+            <title>Regola delli cinque ordini d'architettura. English. 1669</title>
+            <author>Vignola, 1507-1573.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1669</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 50 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01885</idno>
+            <idno type="STC">Wing B901A</idno>
+            <idno type="STC">ESTC R172275</idno>
+            <idno type="EEBO-CITATION">52211686</idno>
+            <idno type="OCLC">ocm 52211686</idno>
+            <idno type="VID">175417</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175417)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2733:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The regular architect: or the general rule of the five orders of architecture of M. Giacomo Barozzio Da Vignola. With a new addition of Michael Angelo Buonaroti. / Rendred into English from the original Italian, and explained, by John Leeke student and teacher of the mathematicks, for the use and benefit of free masons, carpenters, joyners, carvers, painters, bricklayers, plaisterers: in general for all ingenious persons that are concerned in the famous art of building.</title>
+                  <title>Regola delli cinque ordini d'architettura. English. 1669</title>
+                  <author>Vignola, 1507-1573.</author>
+                  <author>Leeke, John.</author>
+                  <author>Michelangelo Buonarroti, 1475-1564.</author>
+               </titleStmt>
+               <extent>[6] p., 44 leaves of plates : ill., port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rowland Reynolds, and William Sherwin, and are to be sold at their shops at the Sun and Bible in Postern-street near Moorgate, and next door to the Star in Little Britain,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCLXIX [1669]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Regola delli cinque ordini d'architettura.</note>
+                  <note>Imperfect: faded print with slight loss of text.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Architecture --  Early works to 1800.</term>
+               <term>Columns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="frontispiece">
+            <pb facs="tcp:175417:1" rendition="simple:additions"/>
+            <pb facs="tcp:175417:1" rendition="simple:additions"/>
+            <pb facs="tcp:175417:2"/>
+            <pb facs="tcp:175417:2"/>
+            <pb facs="tcp:175417:3"/>
+            <p>
+               <figure>
+                  <p>THE EFFIGIES OF M GIACOMO BAROZZIO DA VIGNOLA</p>
+                  <byline>W Sherwin ſculpsit et ex<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>l<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                  </byline>
+                  <figDesc>portrait of Giacomo Barozzio da Vignola</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:175417:3" rendition="simple:additions"/>
+            <p>THE Regular Architect: OR THE GENERAL RULE OF THE <hi>FIVE ORDERS</hi> OF ARCHITECTURE OF M. <hi>GIACOMO BAROZZIO Da VIGNOLA.</hi>
+            </p>
+            <p>WITH A New Addition of MICHAEL ANGELO BUONAROTI</p>
+            <p>
+               <hi>Rendred into</hi> Engliſh <hi>from the Original</hi> Italian, <hi>and Explained,</hi> By JOHN LEEKE STUDENT and TEACHER of the <hi>MATHEMATICKS,</hi> For the USE and BENEFIT of Free <hi>Maſons, Carpenters, Joyners, Carvers, Painters, Bricklayers, Plaiſterers:</hi> In General For all Ingenious Perſons that are concerned in the Famous ART of BUILDING.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Rowland Reynolds,</hi> and <hi>William Sherwin,</hi> and are to be ſold at their ſhops at the <hi>Sun</hi> and <hi>Bible</hi> in <hi>Poſtern-street</hi> near <hi>Moor-gate,</hi> and next door to the <hi>Star</hi> in Little <hi>Britain,</hi> MDCLXIX.</p>
+         </div>
+         <div type="author_to_the_reader">
+            <pb facs="tcp:175417:4"/>
+            <pb facs="tcp:175417:4"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Courteous Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Intend here briefly to declare, for the better underſtanding hereof, what was the occaſion that moved me to make this ſmall Work, and afterward to publiſh it for the common ſervice of thoſe that take delight therein. Having Exercis'd this Art of <hi>Architecture</hi> for divers years in ſundry pla<g ref="char:EOLhyphen"/>ces, I have been alwaies pleaſed to ſee the Opinions of as many Writers as I had, concerning this practice of the Ornaments, and by comparing them both among themſelves, and with the Works of the Ancients, which are ſeen yet in being, to draw from thence ſome Rule, on which I might relie with ſuch ſecurity, as might pleaſe, if not all, yet at leaſt the greater part of them that are capable to judge of this Art, and that only to ſerve my own uſe, without any other end. Therefore laying aſide many things of thoſe <hi>Writers,</hi> from whence ariſeth no ſmall difference, to the end to reſt more ſecure, I propoſed to my ſelf the ancient Ornaments of the <hi>five Orders</hi> which are ſeen among the Antiquities of <hi>Rome;</hi> and conſidering all together, and examining them by diligent Meaſures, I have found that thoſe which ſeem moſt beautiful to common judgment, and which repreſent themſelves with moſt grace before our Eyes, thoſe I ſay have a certain cor<g ref="char:EOLhyphen"/>reſpondence and proportion of Numbers among themſelves not intricate, ſeeing that each of the leſſer Members meaſure the greater, punctually diſtributing them into ſo many parts. From whence conſidering more nearly, that all our Senſes are pleaſed in this Pro<g ref="char:EOLhyphen"/>portion, and diſpleaſing things are different from it, as the <hi>Muſicians</hi> do moſt ſenſibly demonſtrate in their Science; I have taken Pains theſe many years to reduce the ſaid <hi>five Orders</hi> of <hi>Architecture</hi> under one brief Rule, eaſie, and which might readily be put in practice; and the manner which I have obſerved in it is thus. Deſiring to bring to this Rule the <hi>Dorick</hi> Order, for an Example I have found the Theatre of <hi>Marcellus</hi> to be the moſt commended among all others, according to the judgment of every one, and therefore alſo I have
+<pb facs="tcp:175417:5"/> taken it for the Foundation of the Rule of the ſaid Order; of which having determined the principal parts, if afterward certain of the leſſer Members have not ſo exactly anſwered to the proportion of Numbers (a thing which often happens by the work of the Tools, or other accident, which may often be in theſe ſmall things) that I have fitted to my Rule, not differing in any thing of importance, but accompanying rather that ſmall licence with the authority of other <hi>Dorick</hi> Orders, which alſo are eſteemed beautiful; from whence I have taken the other ſmaller parts, alwaies when it was neceſſary to ſupply it. Not as <hi>Zeuxis</hi> did of the Virgins among the <hi>Crotoniacks,</hi> but as my judgment hath led me. I have made this Election of all the Orders, taking them purely altogether from the Ancients, and not mixing any thing of my own, except it be the diſtribution of Proportion, founded on ſimple Numbers, not having regard either to the Braces, Feet, or Palmes of any Place, but only to one Arbitrary Meaſure, called <hi>A Module,</hi> divided into ſo many parts as from Order to Order may be ſeen in its proper place. And by this means I have ſo facilitated this part of <hi>Archi<g ref="char:EOLhyphen"/>tecture</hi> (otherwiſe difficult) that any mean underſtanding, if he have but only ſome taſte of the Art, may comprehend the whole at one view; and eaſily uſe the ſame, without taking much pains in reading. Yet had I no intent to publiſh this Work, if it had not been for the intreatie of many of my Friends which deſired it; and much more by the Liberality of my perpetual, moſt Illuſtrious, and moſt Reverend Lord, Cardinal <hi>Farneſe;</hi> which, beſides that I have received ſuch courteſies from his Honourable Houſe, which hath given me favour to make this diligence, hath alſo given me the mean to be able to ſatisfie my Friends in this particular, and to give you ſuddenly other greater things on this Subject, if this Part be ſo accepted of you as I hope it will be. And ſeeing that in this place it is not my deſign to anſwer Objections, which I know will be propounded by ſome, that being not my intention; ſo leaving the charge to the Work it ſelf, which being acceptable to the Judi<g ref="char:EOLhyphen"/>cious, will cauſe them to anſwer for me againſt the Objections of others: I ſay only, That if any one ſhall judge this Work to be vain, maintaining that there can no firm Rule be given, becauſe that according to the opinion of all, and namely of <hi>Vitruvius,</hi> there muſt oftentimes be added and ſubſtracted to the proportions of the Members of the Ornaments, to the intent to ſupply by Art in thoſe places, where our ſight may be deceived by any accident. To that I anſwer, That it is wholly neceſſary in that caſe to know how we
+<pb facs="tcp:175417:5"/> would have them repreſented to our Eyes, which ſhall be alwaies a firm Rule, which in another place I have propounded to be obſerved, ſeeing that we proceed therein by certain curious Rules of <hi>Perſpe<g ref="char:EOLhyphen"/>ctive.</hi> The Practice whereof (ſo much as is neceſſary to this <hi>Art,</hi> and to Painting both together) I hope to give you ſuddenly, in ſuch manner as I am aſſured will be dilectable to you.</p>
+            <p>My intention, as I have ſaid, was none other than to be underſtood by thoſe only, which have already ſome taſte of the Foundation of the <hi>Art,</hi> and therefore I had not added the Name to any particular Member of the <hi>Five Orders,</hi> preſuppoſing them to be already known. But finding afterwards, by experience, that the Work was very acceptable to divers Perſons of Quality, moved by the deſire they had to be able to underſtand with little labour the entire of this <hi>Art</hi> concerning the Ornaments, and that they deſired no other thing than the particular Names, I was willing to add them accor<g ref="char:EOLhyphen"/>ding as they are ordinarily called at <hi>Rome,</hi> and in ſuch order as you may ſee, only advertiſing that the Members which are common to divers Orders, after they have been only once named in the firſt Order, there is no mention made of them in the other Orders.</p>
+            <closer>
+               <signed>G. Barozzio.</signed>
+            </closer>
+         </div>
+         <div type="translator_to_the_reader">
+            <pb facs="tcp:175417:6"/>
+            <head>The TRANSLATORS PREFACE. To the Reader.</head>
+            <opener>
+               <salute>Gentle Reader,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">C</seg>Onſidering that thoſe things are eaſieſt comprehended and beſt retained in memory, which is taught by the feweſt Pre<g ref="char:EOLhyphen"/>cepts, therefore we have made choice of this Author as an Introduction to the Ornamental part of <hi>Architecture,</hi> and have ſtyled him, <hi>The Regular Architect,</hi> becauſe he ſets down one general Rule for the Principal Numbers of all the <hi>Five Orders;</hi> which Rule our Author found from the Obſervation which he made of the Antiquities of <hi>Rome.</hi> The Author being per<g ref="char:EOLhyphen"/>ſpicuous of himſelf, we have endevoured to render him in his own Senſe, only adding here and there a word upon occaſion to explain his meaning more fully. If this find acceptance, expect in a ſhort time the Rules of Practical Perſpective of the ſame Author, From him, who is</p>
+            <closer>
+               <signed>A Lover of all ingenious Artiſts, JOHN LEEKE.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175417:6" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <p>
+                     <list>
+                        <item>TVSCANE</item>
+                        <item>DORICK</item>
+                        <item>IONICK</item>
+                        <item>CORINTHIAN</item>
+                        <item>COMPOSITA</item>
+                     </list>
+                  </p>
+                  <p>Intending to treate of the five orders of Columnes; that is to Say the Tuscane, the Dorick the Ionick, the Corinthian, and Composita. it is convenient at the begining to shew the figure of each kind of Which I am to ſpeak, although their particular measures are not ſet downe, being that they are onely here put to ſhew a general rule, which afterward ſhalbe declared particularly in each order</p>
+                  <figDesc>architectural diagram</figDesc>
+               </figure>
+            </p>
+            <div n="Tuscan" type="order">
+               <pb facs="tcp:175417:7"/>
+               <pb n="3" facs="tcp:175417:7"/>
+               <p>
+                  <figure>
+                     <p>Finding no Tuscan order amonge the antiquities of Rome, from whence J might haue formed a rule as J have found in the other foure orders; the Dorick, Ionick, Corinthia, &amp; Comparita, J have taken the authoritie of <g ref="char:V">Ʋ</g>itruvius in his fourth booke &amp; ſeventh Chapter, where he Sayes, that the Tuscan Columne ought to be in height with the base and Capital Seven times his owne diameter or thicknes In the rest of the ornaments namely the Architrave Fries and Cornice, it is convenient to observe the rule, which J have found in the other orders, that is, that the Architrave Frise and Cornice may be the fourth parte of the height of the Columne, which is 14 modules with the Base, and Capital, as is Seene set downe by numbers; so also the Architrave, Frise and Cornice Shalbe 3½ modules, which is the fourt<hi rend="sup">h</hi> parte of 14, the particular members shalbe exactly Set downe in their proper place,</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:8"/>
+               <pb n="4" facs="tcp:175417:8"/>
+               <p>
+                  <figure>
+                     <p>Being to make the Tuscan order with out a pede<g ref="char:EOLunhyphen"/>stal, the whole height Shalbe divided into 17 ½ part<hi rend="sup">es</hi> and each of those partes shalbe called a Module, which againe wee divide into 12 equal partes, and by these measures at the Saied order is formed with every particular member thereof, as is Seene in the designe Set downe both in whole numbers and fractions</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:9"/>
+               <pb n="5" facs="tcp:175417:9"/>
+               <p>
+                  <figure>
+                     <p>But being to make the Saied order with a pedestal the whole height is to be divided— into 22 partes and ⅙ which is done, because the pedestal requires to be in height the third parte of his Columne with Base and Capital, which being 14 modul<hi rend="sup">e</hi>s, the third parte is 4 modules and ⅔ which added to 17 modules and ½ make together 22 modules and ⅙</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:10"/>
+               <pb n="6" facs="tcp:175417:10"/>
+               <p>
+                  <figure>
+                     <p>Although a pedestal is ſildome made to the Tuscan order, yet haue I put it here in deſigne to follow order, giving you <hi rend="sup">to</hi> understand that in the five orders I have observed it for a general, and that the pedestals with their ornaments ought to be a third parte of their Columne with Base and Capital, as al the ornaments aboue, that is to Say, the Architruve Frise and Cornice ought to be a fourth parte of the Same, Form which being vnderstood &amp; presuposed there ariseth this great facilitie in the worke that being to make any of these five orders after the height which it ought to have <hi rend="sup">is</hi> determined it is to be divided into 19 partes with its ornaments (then 3 partes being left aboue for the Architruve and 4 below for the pedestal, the 12 partes remaning are for the height of the Columne with the Base &amp; Capital, which being taken, &amp; making the division of the modules, according as it ſhalbe either Corinthia or Dorick or the other orders, &amp; then the whole order is made by that module divided into its partes, as Shalbe Seene in its due place; A the Body or Shafe of the Columne: B: Cincta Regula or list: C: Torus: D: the Blinth-E-listello a name moſt general and vsed in differently in al the like members whether the be lesser or greater F Cimatum. G the Pedestal H listelo I the Blinth of the Pedestal,</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:11"/>
+               <pb n="7" facs="tcp:175417:11"/>
+               <p>
+                  <figure>
+                     <p>Hauing before described in general <hi rend="sup">the</hi> principal measures for drawing the Tuscane order, J have here and in the foregoing page, deſigned the partes in great to the ende that you; may See Particularly, the division of every one of the Smalest partes, together with their project<g ref="char:EOLhyphen"/>ture and that the clearenesse of the designe with the numbers adjoyned may be Sufficient to mak you understand the thing without many words, as any one may easily know of himſelfe with Smale conſideration</p>
+                     <p>A. Ouolo. B. Rundel. C. Listello. or. Regula. D. Corona or Dropstone. E. Listetto. F. Cymatium G. Frise H. Facia or List of the Architrave I. Architrave K Chimatium or list of the Abacus L Abacus M Echinus N List, O Frise of the Capital, P Astragal Q Coller of the Columne R the Body of the Columne</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="Doric" type="order">
+               <pb facs="tcp:175417:12"/>
+               <pb n="8" facs="tcp:175417:12"/>
+               <p>
+                  <figure>
+                     <p>The Manner to make the divisions of this Dorick order is this The whole height is devided into 20 partes, and of one of those partes is made the module, which is alſo devided into 12 partes, like as was done in the Tuscan Order the Base with the list or lowest Cincture of the Columne Shalbe one module, the trunck or Shaft of the Columne without the Base Shalbe 14 modules, the Capital ſhalbe one module and then the ornamen<hi rend="sup">t</hi>, that is to Say the Architrave Frise and Cornice shalbe 4 modules, which is the fourth parte of the Columne with the Base and Capital as Wee have Saied before, The Architrave ought to be 1 module the Frise 1½ and the Cornice 1 ½ which added together make 4 modules, and being added to the rest make 20</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:13"/>
+               <pb n="9" facs="tcp:175417:13"/>
+               <p>
+                  <figure>
+                     <p>When you would make the ornament of Galeries or Porticos according to the Dorick order the light (as hath ben Saied) must be divided into 20 partes, and from thence the module must be formed, Then the breadth, must be divided so as betweene the Pilasters there may be 7 modu<hi rend="sup">s</hi> and that the Pilasters may have 3 modules, For so the — breadth is divided with the height, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> to the proportion of the opening of the light, of twice the breadth in height, and the distribution of the Metopes and Trigliphs falls right as you See. It Remaines onely to Conſider that the Colu<g ref="char:EOLhyphen"/>mne ought to Come forth of the Pilaster ⅓ of a module more than the halfe which is done to the intente that the projec<g ref="char:EOLunhyphen"/>tures of the imposts may not exeede halfe the Columnes and this Shalbe a general rule in the like cases of al the — orders</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:14"/>
+               <pb n="10" facs="tcp:175417:14"/>
+               <p>
+                  <figure>
+                     <p>Being to make Galeries with their pedestals according to the Dorick order, the whole height ought to be divided into 25 partes and ⅓, and one of those partes Shalbe a module, the breadth betweene the pilasters Shalbe 10 modules, and the breadth of the pilasters Shalbe 5 modules for so the distribution of the metops, and Trigliphs shal fall out right and the voide of the Arches in Such proportio<hi rend="sup">n</hi> that the height shalbe double to the breadth which in height as you may See is of 20 modules</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:15"/>
+               <pb n="11" facs="tcp:175417:15"/>
+               <p>
+                  <figure>
+                     <p>The Pedestal of the Dorick order ought to have 5 modules and ⅓ in height the impost of the Arch designed there aboue one module and the particular members thereof are to be divided according to the members as they are there Set downe A the Chan<g ref="char:cmbAbbrStroke">̄</g>ells of the Columne B the lowest Cincture of the Columne which ought so to be underſtood of all the orders C Rundel or litle stafe</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:16"/>
+               <pb n="12" facs="tcp:175417:16"/>
+               <p>
+                  <figure>
+                     <p>This parte of the Dorick order is taken from the Theater of marcellus at Rome, as I have said in the preface by way of example, and being designed it retaines the same proportion A Hollow of the upper list, B Denticuli, C Capital of the Trigliph, D Trigliph in which the partes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> inward are called Channells and the square space of the frise which Remaines betweene one Trigliph and the other is called metope, E Guttae, dropps, or smale bels F Cymatium G Annul<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>, cinctures or Lists</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:17"/>
+               <pb n="13" facs="tcp:175417:17"/>
+               <p>
+                  <figure>
+                     <p>This other peece of the Dorick order is taken from divers reliques amonge the antiquities of Rome, and such a composition is made thereof, which I have found to prove wel in worke A Cymatium, B Modilions a name by which They are al called althought they be of different formes, when they doe the office to sustaine the Coruice, C Astragal.</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="Ionic" type="order">
+               <pb facs="tcp:175417:18"/>
+               <pb n="14" facs="tcp:175417:18"/>
+               <p>
+                  <figure>
+                     <p>Being to make the Ionick order without apedestal, the whole height ought to be divided into 22 ½ partes, and of one of those partes is made the module, which is divided into 18 partes, because this order being more gentile then the Tuscane and Dorick, hath olso the partes thereof more ſlaider, The Columne ought to have 18 modules comprehending the base and Capital, the Architrave 1 ¼ module, The frise 1½ the Cornice 1 ¾ which numbers being added together, make the Architraue Frise and Cornice 4 ½ modules, which is the 4 parte of 13 modules the height of the Columne</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:19"/>
+               <pb n="15" facs="tcp:175417:19"/>
+               <p>
+                  <figure>
+                     <p>When you would make Galeries or Porticos according to the Ionick order, The breadth of the Pilasters shalbe 3 modules and the distance betweene the Pilasters shalbe 8½ modules and the height 17 modules which is the double of the breadth, which is a rule which ought to be observed constantly in all arches of the like ornament, if necessitie doth not Constraine to doe otherwisse</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:20"/>
+               <pb n="16" facs="tcp:175417:20"/>
+               <p>
+                  <figure>
+                     <p>But when you would make Porticos or Galeries according to the Ionick order with Pedestals, the whole height is to be divided into 28 ½ partes, The pedestal with his ornaments being 6 modules, which is the third parte of the Columne with base &amp; Capital which is to be obsarved in al the orders as wee have said, The breadth betweene the Pilasters shalbe 11 modules the height of the arch 22 modules. The breadth of the Pilasters shalbe 4 modules, as you may see noted <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> numbers in the design.</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:21"/>
+               <pb n="17" facs="tcp:175417:21"/>
+               <p>
+                  <figure>
+                     <p>The Cornice of the impost set aboue is one module in height, and the projecture thereof is ⅓ the particul<hi rend="sup">ar</hi> members may be knowne by the numbers, as alſo those of the pedestal and <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> A Scotia or upper hollow B Astragals or Rundles <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:22"/>
+               <pb n="18" facs="tcp:175417:22"/>
+               <p>
+                  <figure>
+                     <p>The maner to make the Ionick Capital, as it is here designed in this present figure with the plane and profil for the more Claire <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> underſtanding there muſt be two perpendicular lines drawn, all the distance of two modules the one from the other, which may passe b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the eyes of the volutas, which are called <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> The whole voluta ought to be 16 partes of a module in height whereof 8 are aboue the eye <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> it <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> being two partes and the other 6 remaines <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the eye. The maner of drawing the voluta <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> designed in the following leafe, where also <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Shalbe explain <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> much as the space wil pe<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> the maner <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> which you are to proceede</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:23"/>
+               <pb n="19" facs="tcp:175417:23"/>
+               <p>
+                  <figure>
+                     <p>Having drawne the Cathetus of this first voluta, and another line Square to it by the center of the eye, the Saied <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ided in the manner expressed aboue in the figure A, and is began from the first point marked i<g ref="char:cmbAbbrStroke">̄</g>, and there is drowne a fourth parte of a Circle with the compasses then from the point marked 2 is drawne another fourth parte <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> proceeding the three turnes come to be accomplished, Then to make the breadth of the list so as it may be afourth <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> which is left aboue by the first tract so each parte which Sawes for Centers is divided into 4 and afterwards drawing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of circles, they Shalbe accomplished by those centers. But to make the voluta after the manner represented underneath the line called <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> be drawne, which ſhal haue the h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ght of 16 partes of a module, whereof a ſhalbe aboue the center and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> beneath and one the Saie<hi rend="sup">d</hi> center, you ſhal divide the circumference into 8 equal partes, as you See it deſigned Then afterwards the triangle BCD ought to be made, so as the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> BC <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ay be 9 partes of amodiu<g ref="char:cmbAbbrStroke">̄</g>, and the line CD. 7. and because that it may be Seene and understood by the design <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>d marked with numbers it is sufficient that I have drawn <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> afterwards the points of the line BC ought to be <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ide the circumference of the voluta, as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> by numbers, and then b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>acing from point to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> found<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the first foot of the compasses <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ning the other foot to the center <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> of the eye of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> circumference within the Saie<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the Compasses you put the first point on the point <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> where <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> that parte of, circumference <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>halbe <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> circumference from 1 to 2 then Set the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> foot of the compasses on the point and put in the other to the co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the voluta &amp; then drawing an arch of a circle as before then without remo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Set <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> foot upon the point 3 and turning the other foot where it cutts the Saied arch Shalbe the other center which <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>aw <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the voluta from 2 to 3. And so you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>hal proceede from point to point</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="Corinthian" type="order">
+               <pb facs="tcp:175417:24"/>
+               <pb n="20" facs="tcp:175417:24"/>
+               <p>
+                  <figure>
+                     <p>
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> this Corinthian order without a Pedestal the whole height is divided into 25 partes, and the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> made of one of them, which is divided into 18 partes, as it was in the Ionick order the other principal <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> seene in the figure, and the distance from one Columne to the other ought to be a modules and ⅔, as wel that th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> architrave aboue be not overcharged, as to accomodate the modilions aboue in the Cornice as they <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> thy to the midle of the Columnes in their <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ment</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:25"/>
+               <pb n="21" facs="tcp:175417:25"/>
+               <p>
+                  <figure>
+                     <p>To make the Arches of Galeries according to this Corinthian order, you ought to proceede as it is here noted in numbers So as the opening of the Arch may be 9 modules in breadth and 18 modules in height, and the Pilasters shalbe 3 modules</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:26"/>
+               <pb n="22" facs="tcp:175417:26"/>
+               <p>
+                  <figure>
+                     <p>But to make Galeries with pedestal, the whole height ſhalbe divided into 32 partes, and of one of them Shalbe made the module, 12 of them Shalbe the breadth, and 25 the height of the opening: and although it passeth two squares, it is Convenient in this order in respect of the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>landernesse thereof. The pilasteres shalbe 4 modules as it is Set downe in the deſigne</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:27"/>
+               <pb n="23" facs="tcp:175417:27"/>
+               <p>
+                  <figure>
+                     <p>If the pedestal of this Corinthian order be the third parte of the Columne, it ſhalbe Six modules and ⅔, but it may be made of Sev<hi rend="sup">en</hi> modules for the more Soliditie, very Conformable and agreable to this order; and alſo to the ende that the pedest<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>l without the Cima<g ref="char:EOLunhyphen"/>tium and Base, may be two Squar<hi rend="sup">es</hi>, as may be Seene by the numbers the reſt, that is to Say the Cima<g ref="char:EOLunhyphen"/>tium and base, Seeing that the are Set downe in their Smalest partes, as alſo the impoſt of the Arch there needes no farther description of them. A the upper Torus. B the lower Torus.</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:28"/>
+               <pb n="24" facs="tcp:175417:28"/>
+               <p>
+                  <figure>
+                     <p>By the ground plat and profil of this Corinthian Capital al the measures may be knowne, by the ground plat the breadths are measured by making a square whose diagonal line ſhalbe 4 modules, and on one of the Sides of the Square is made an Equilateral triangle as you see in the figure, and Setting one foot of the Compass<hi rend="sup">es</hi> in the Angle marked <g ref="char:cross">✚</g> the hollow of the Abacus is drawne, in the profil the height of the leaves, Stems and Abacus, and the extente of the leaves and ſtems is taken by the line which comes from the point of the Abacus to the round of the Columne, as may be seene by the deſigne of the profil, the rest may be easily understood with a litle Conſideration</p>
+                     <p>A <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> together are called the Abacus of the Capital, but for better underſtanding A is taken for the Cima<g ref="char:EOLunhyphen"/>tium of the Abacus. C the ſtem, D the lesser leaves, E the midle leaves, F <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> under leaues, G the ſlower.</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:29"/>
+               <pb n="25" facs="tcp:175417:29"/>
+               <p>
+                  <figure>
+                     <p>This Corinthian Cornice is taken from divers places at Rome, &amp; principally from the Pantheon or Temple of the round, and from the three Columne<hi rend="sup">s</hi> which are in the Romain market, and Compairing their principal members, I have Set downe their rule before not differing any thing from the ancients, and reducing itt to that proportion, that a modilion is over the midle of the Columne, and that the eggs, denticles anchors and ſpondyles answere directly the one to the other, in good order as you may See the meas<g ref="char:EOLhyphen"/>ures are ſupplied by numbers made of modules and partes of modules, the module being divided into 18 as hath bin Said</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div n="Composite" type="order">
+               <pb facs="tcp:175417:30"/>
+               <pb n="26" facs="tcp:175417:30"/>
+               <p>
+                  <figure>
+                     <p>This Composita Pedestal keepes the proportion of the Corinthian and hath no other difference of members but in the Cymatium and basment, as may be Seene. And because the ornaments of the Composita have the Same proportion with the Corinthian, I have supposed it not necessarie to make these Columne and Arches aparte, reffering to the Corinthian Columnes and Arches. Only <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> given the diversitie of the Base and Capital, and other ornaments, as may be Seene in their peaces</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:31"/>
+               <pb n="27" facs="tcp:175417:31"/>
+               <p>
+                  <figure>
+                     <p>This ground plat and profil of the Composita Capital, proceeds in the Same manner as the Corinthian before described, it onely differs in this, that where the Corinthian hath its Stems, the Composita hath volutas made after the Same manner with the Ionick. The ancient Romaines taking one parte of the Ionick and another parte of the Corinthian have made this Composition to vnite together as much as was possible al that which was beutiful in one onely parte</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:32"/>
+               <pb n="28" facs="tcp:175417:32"/>
+               <p>
+                  <figure>
+                     <p>This peece of the Composita order, that is to Say the Capital, Architrave, fr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>se, and Comice, is alſo drawne from divers places amonge the Antiquities of Rome, and is Reduced to proportion as hath bin Saied of the Corinthian which being noted with numbers is sufficiently Cleare of it ſelfe</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:33"/>
+               <pb n="29" facs="tcp:175417:33"/>
+               <p>
+                  <figure>
+                     <p>Amonge the antiquities of Rome there are found almost infinite varieties of Capitals which have noe proper name, but may be Comprehended altogether under that general word Composita, and also they follow the principal measures of other Compositas, derived onely from the Ionick and corinthian, It is true that in Some of them we ſhal See the images of liueing Creatures in ſteade of ſtemes, in others Cormicopias, and in others divers other things according as they found them to <hi rend="sup">Saw</hi> their purpose in their designes, as may be Iudged by this present design, the which hath 4 eagles inplase of the Stem, &amp; in place of the ſlowers 4 faces of Iupiter with lightening underneath, as you may easily, that it was in a Temple consecrated to Iupiter, the Same may be Saied of the other which hath 4 griffens in place of ſtems, and 4 eagles in the midle with a dogg in their clawes, that it: was appropriated to ſom other of their Idols, ther proportion except the Images of the liuing creatures, is like to the Corinthian.</p>
+                     <p>This base is called Attick by Vitruvius in his 3<hi rend="sup">d</hi> book and 3<hi rend="sup">d</hi> chap: as being first found and put in worke by the Athenians, in our time it is vsed to be Set in worke in differently under the Corinthian Composita, Ionick and Dorick, but it hath more affinitie with the composita than with any other order, and is also tolerable in the Ionick, when wee vse not the proper base thereof, but, vnder the other orders IIudge it altogether impertinent and can giue many Reasons for it, but I wil not trouble my Selfe to Speake of things past built, <hi rend="sup">with</hi> So great licence, It is ſufficient in the ſame order as before that I Shew the Partition thereof, which ariseth from amodule divided into 18. partes, as in the Ionick and Corinthian</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:34"/>
+               <pb facs="tcp:175417:34"/>
+               <p>
+                  <figure>
+                     <p>Colum<hi rend="sup">n</hi>es are diminished in divers manners, two whereof I Set downe here which are excep<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> fast and moſt knowne is, that the height and thicknes of the columne being terminated, and how much <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>, at the third parte upward from the base where the lessening begins is drawne a Semicircle, and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> partes of the Semicircle which are without the perpendicular lines falling on the Said circle from the lesser parte of the columne are divided into as many equal partes as you wil, and alſo the two thirds of the columne is divided into as many partes by transvers lines and where the perpendicular and tranſvers lines meete Shatbe the termes of the diminishing as may be Seene in the figure, this sorte of columne is vsed in the Tuscane and Dorick The other manner I have found of my ſelfe by considering, and although it be lesse knowne yet it is easie to comprehend by the lineaments, I Say onely that al the partes being terminated as is Saied, an indeterminate right line ought <hi rend="sup">to</hi> be drawne at the thi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> base, which begins from C and passeth by D, then taking the measure D and Setting it from A <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> the perpendicular in the pound, and extend AB to E where it intersects the line CD prolonged, and from E draw as many lines as <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> by the perpendicular to the circumference, and set the measure CD or each of these lines from the perpendicular towards the circumference both aboue, and beneath the third parle and you have the limits of the <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> this ſorte of Columne maybe vsed in the Ionick Corinthian and Comp<gap reason="illegible" resp="#PDCC" extent="5 letters">
+                           <desc>•••••</desc>
+                        </gap> These Straight Columnes being drawne as you see if you <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> them as these are at S<hi rend="sup">t</hi> Peters Church at Rome you muſt draw the ground plat as here you see, and the Smale Circle in the midle (which is as much as you would wreath it) &amp; divede it into 8 equal p<hi rend="sup">ts</hi>, and draw <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> lines parallel to the perpendicular then divide the whole Columne into <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>8 partes &amp; forme from thence the Spiral line in the midle, which <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> columne from line to line as you see <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> you muſt observe that the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> numbers 1 2 3 4 marked on the ground plat serves <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the beginning ought to be from <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> you must follow the turning of the Smale Circle to <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> the rest you <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> as below</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:35"/>
+               <pb n="31" facs="tcp:175417:35"/>
+               <p>
+                  <figure>
+                     <p>This Cornice, <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> I have <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> any time<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> for the finishing of Frontispi<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> found it to be very acceptable and <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> it be of my one invention I have not thought it impertinent to place it here at the ende <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>f <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Smale worke to ſatisfie those that w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>uld use it, the proportion with the Frontspi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> is thus, the whole height being divided into 11 partes, there remaines one for the Cornice and 10 for the fronti<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap>e, the re<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> is Cleare</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:175417:36"/>
+               <pb n="32" facs="tcp:175417:36"/>
+               <p>
+                  <figure>
+                     <p>Palmi. 11.</p>
+                     <p>Palmi Romani <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>on li quali e'fatto il pres en<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> diſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>gno</p>
+                     <p>The Porte of the fabrick of the most Illustrious and Reverende Cardinal Farnese at Caprarola</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:37"/>
+               <pb n="33" facs="tcp:175417:37"/>
+               <p>
+                  <figure>
+                     <p>This Porte is of Ruſtick work, and the ſtones are ſo well Composed together, Althought there were neither Morter nor any other mixture, it were ſufficient to rule al the Structure be it never so great</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:38"/>
+               <pb n="34" facs="tcp:175417:38"/>
+               <p>
+                  <figure>
+                     <p>A Porte designed for the Service of the moſt Illustrious and Reverende Cardinal Farnese for the Principal entrance of the Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ais of the Chancerie</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:39"/>
+               <pb n="34" facs="tcp:175417:39"/>
+               <p>
+                  <figure>
+                     <p>The Porte of S<hi rend="sup">t</hi> Lawrence in Damaso, a work of Vignola, although the palais is of other Architects</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:175417:40"/>
+               <pb facs="tcp:175417:40"/>
+               <head>
+                  <figure>
+                     <p>MICHAEL ANGELVS BONAROTVS PATRITVS FLORENTINVS ANAGENS. LXXIII</p>
+                     <p>THE NEW AND LAST ADDITION OF PORTS OF ARCHITECTVRE of Michael Angelo Buonar<hi rend="sup">oti</hi> The most excelent Floren<g ref="char:EOLunhyphen"/>tine Painter Sculptor and Architect</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </head>
+               <pb facs="tcp:175417:41"/>
+               <pb facs="tcp:175417:41"/>
+               <p>
+                  <figure>
+                     <p>This Ch<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                           <desc>•••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> is ma<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>ture of divers Co<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> of the moſt <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> Reverend<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> Card<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> S<hi rend="sup">t</hi> A<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> in his p<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                           <desc>••••</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> Rome</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:42"/>
+               <pb n="37" facs="tcp:175417:42"/>
+               <p>
+                  <figure>
+                     <p>PIVS IIII PONTIF MAX POR<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>M IN HANCAMP L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>VDINEM EXTV LIT <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>AM <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>AMINIAM STRAVIT ANNO III</p>
+                     <p>The P<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>rt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 word">
+                           <desc>〈◊〉</desc>
+                        </gap> 
+                        <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>al<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>d del <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:43"/>
+               <pb n="38" facs="tcp:175417:43"/>
+               <p>
+                  <figure>
+                     <p>The deſigne marked with A is the profil of the afore going Porte <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>el Pop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>lo</p>
+                     <p>The deſigne marked with B is the profil of Porta Pia <gap reason="illegible" resp="#PDCC" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap>
+                     </p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:44"/>
+               <pb facs="tcp:175417:44"/>
+               <p>
+                  <figure>
+                     <p>PIVS IIII PONT MAX PORTAM PIAM SV<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>LA<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>A NVMENTANA EXTRVXIT VIAM PIAM AEQVATALTA SEMITA D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>XIT -</p>
+                     <p>Porta Pia of the m<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ention of Michael Angelo</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:45"/>
+               <pb n="40" facs="tcp:175417:45"/>
+               <p>
+                  <figure>
+                     <p>A new worke at the Capitole of the invention of Michel Angelo</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:46"/>
+               <pb n="41" facs="tcp:175417:46"/>
+               <p>
+                  <figure>
+                     <p>The Porte of the Gardin of the moſt Illustrious Lord the Duke of Sforza</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:47"/>
+               <pb facs="tcp:175417:47"/>
+               <p>
+                  <figure>
+                     <p>ANTONVS - GRIMANVS — D - V -</p>
+                     <p>The Porte of the vineyard of the most Reverende Patriarich Grimano in Strada Pia</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:175417:48" rendition="simple:additions"/>
+               <pb n="44" facs="tcp:175417:48"/>
+               <p>
+                  <figure>
+                     <p>The Porte of the vineyard of the Cardinal of Sermoneta, which begins at the foot of mounte Quirinale, and is extended to the top of strada pia anciently called alta Semita</p>
+                     <figDesc>architectural diagram</figDesc>
+                  </figure>
+               </p>
+            </div>
+            <pb facs="tcp:175417:49"/>
+            <pb facs="tcp:175417:49"/>
+            <pb facs="tcp:175417:50"/>
+            <pb facs="tcp:175417:50"/>
+         </div>
+      </body>
+   </text>
+</TEI>
